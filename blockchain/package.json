@@ -16,5 +16,10 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.14.10"
+  },
+  "overrides": {
+    "jayson": {
+      "uuid": "^11.1.1"
+    }
   }
 }
